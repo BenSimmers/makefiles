@@ -6,9 +6,13 @@ This repository contains various Makefile examples for different programming lan
 
 ## Contents
 
-- [Node.js Makefile](#nodejs-makefile)
-- [TypeScript Makefile](#typescript-makefile)
-- [C# Makefile](#c-makefile)
+- [Node.js Makefile](./node-js/makefile)
+- [TypeScript Makefile](./node-ts/makefile)
+- [C# Makefile](./c#/makefile)
+- [C Makefile](./c/makefile)
+- [Rust Makefile](./rust/makefile)
+- [React Makefile](./react/makefile)
+- [Bun Makefile](./bun/makefile)
 
 ## Something to note
 - feel free to update/contribute to this repository, these are my personal Makefiles that I use in my projects and I thought it would be a good idea to share them with the community.
